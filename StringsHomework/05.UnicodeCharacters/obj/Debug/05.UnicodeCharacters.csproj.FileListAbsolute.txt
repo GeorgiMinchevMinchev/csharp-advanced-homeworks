@@ -1,0 +1,6 @@
+C:\Users\Georgi\Documents\Visual Studio 2015\Projects\CSharpAdvancedCourse\Homeworks\StringsHomework\05.UnicodeCharacters\bin\Debug\05.UnicodeCharacters.exe.config
+C:\Users\Georgi\Documents\Visual Studio 2015\Projects\CSharpAdvancedCourse\Homeworks\StringsHomework\05.UnicodeCharacters\bin\Debug\05.UnicodeCharacters.exe
+C:\Users\Georgi\Documents\Visual Studio 2015\Projects\CSharpAdvancedCourse\Homeworks\StringsHomework\05.UnicodeCharacters\bin\Debug\05.UnicodeCharacters.pdb
+C:\Users\Georgi\Documents\Visual Studio 2015\Projects\CSharpAdvancedCourse\Homeworks\StringsHomework\05.UnicodeCharacters\obj\Debug\05.UnicodeCharacters.csprojResolveAssemblyReference.cache
+C:\Users\Georgi\Documents\Visual Studio 2015\Projects\CSharpAdvancedCourse\Homeworks\StringsHomework\05.UnicodeCharacters\obj\Debug\05.UnicodeCharacters.exe
+C:\Users\Georgi\Documents\Visual Studio 2015\Projects\CSharpAdvancedCourse\Homeworks\StringsHomework\05.UnicodeCharacters\obj\Debug\05.UnicodeCharacters.pdb

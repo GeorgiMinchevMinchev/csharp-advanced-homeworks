@@ -1,0 +1,6 @@
+C:\Users\Georgi\Documents\Visual Studio 2015\Projects\CSharpAdvancedCourse\Homeworks\StringsHomework\04.TextFilter\bin\Debug\04.TextFilter.exe.config
+C:\Users\Georgi\Documents\Visual Studio 2015\Projects\CSharpAdvancedCourse\Homeworks\StringsHomework\04.TextFilter\bin\Debug\04.TextFilter.exe
+C:\Users\Georgi\Documents\Visual Studio 2015\Projects\CSharpAdvancedCourse\Homeworks\StringsHomework\04.TextFilter\bin\Debug\04.TextFilter.pdb
+C:\Users\Georgi\Documents\Visual Studio 2015\Projects\CSharpAdvancedCourse\Homeworks\StringsHomework\04.TextFilter\obj\Debug\04.TextFilter.csprojResolveAssemblyReference.cache
+C:\Users\Georgi\Documents\Visual Studio 2015\Projects\CSharpAdvancedCourse\Homeworks\StringsHomework\04.TextFilter\obj\Debug\04.TextFilter.exe
+C:\Users\Georgi\Documents\Visual Studio 2015\Projects\CSharpAdvancedCourse\Homeworks\StringsHomework\04.TextFilter\obj\Debug\04.TextFilter.pdb

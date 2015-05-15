@@ -1,0 +1,6 @@
+C:\Users\Georgi\Documents\Visual Studio 2015\Projects\CSharpAdvancedCourse\Homeworks\StringsHomework\03.CountSubstringOccurencies\bin\Debug\03.CountSubstringOccurencies.exe.config
+C:\Users\Georgi\Documents\Visual Studio 2015\Projects\CSharpAdvancedCourse\Homeworks\StringsHomework\03.CountSubstringOccurencies\bin\Debug\03.CountSubstringOccurencies.exe
+C:\Users\Georgi\Documents\Visual Studio 2015\Projects\CSharpAdvancedCourse\Homeworks\StringsHomework\03.CountSubstringOccurencies\bin\Debug\03.CountSubstringOccurencies.pdb
+C:\Users\Georgi\Documents\Visual Studio 2015\Projects\CSharpAdvancedCourse\Homeworks\StringsHomework\03.CountSubstringOccurencies\obj\Debug\03.CountSubstringOccurencies.csprojResolveAssemblyReference.cache
+C:\Users\Georgi\Documents\Visual Studio 2015\Projects\CSharpAdvancedCourse\Homeworks\StringsHomework\03.CountSubstringOccurencies\obj\Debug\03.CountSubstringOccurencies.exe
+C:\Users\Georgi\Documents\Visual Studio 2015\Projects\CSharpAdvancedCourse\Homeworks\StringsHomework\03.CountSubstringOccurencies\obj\Debug\03.CountSubstringOccurencies.pdb
